@@ -4,7 +4,7 @@ from elevenlabs.client import ElevenLabs
 import os
 
 TELEGRAM_BOT_TOKEN = "7983931203:AAE9B5Blt6QFNLyzto-m-NA4rxzhZAnySU8"
-ELEVENLABS_API_KEY = "sk_0ce2cd068789ab88004f409ac438a7e6262f9e2fd1132f1d"
+ELEVENLABS_API_KEY = "sk_742eb4865924df34fa6f4ef4458cf103ae4347f0525d8e36"
 VOICE_ID = "FDQcYNtvPtQjNlTyU3du"
 
 client = ElevenLabs(
