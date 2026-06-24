@@ -3,7 +3,7 @@ from telegram.ext import Application, MessageHandler, ContextTypes, filters
 from elevenlabs.client import ElevenLabs
 import os
 
-TELEGRAM_BOT_TOKEN = "7983931203:AAE9B5Blt6QFNLyzto-m-NA4rxzhZAnySU8"
+TELEGRAM_BOT_TOKEN = "8944419242:AAHqX3N33MRMVQtuSWPdu7bC3R9dyazI3ps"
 ELEVENLABS_API_KEY = "sk_742eb4865924df34fa6f4ef4458cf103ae4347f0525d8e36"
 VOICE_ID = "TRnaQb7q41oL7sV0w6Bu"
 
